@@ -10,7 +10,7 @@ The possibilities are endless, there can be a zillion use case scenarios. Onyx i
 Note - The gathering of information about the images is done through the implementation of technologies like Artificial intelligence, machine learning, and deep learning.
 
 
-![](https://s8.postimg.org/pla6wqs5h/onyx.png)
+
 ------    
 #Download    
 ###Using Gradle: under dependencies section:   
